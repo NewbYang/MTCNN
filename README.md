@@ -1,6 +1,6 @@
 # MTCNN
 
-Caffe之python接口配置
+Caffe之python接口配置  
 1、安装python2.7,下载caffe;  
 2、修改caffe-master文件夹下配置文件CommonSettings.props  
          python support：true    
